@@ -1,2 +1,2 @@
 # rock-paper-scissors
-A game of Rock Paper Scissorsin HTML, CSS, and JS!
+A game of Rock Paper Scissors in HTML, CSS, and JS!
